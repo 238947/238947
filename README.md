@@ -52,12 +52,11 @@ My name is Phuchon Chueapong and I'm a loser. I'm from Thialand, living in Chaiy
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/XQ8VdDL.png (twitter)
-[2.2]: https://i.imgur.com/9I6NRUm.png (github)
-[3.2]: https://i.imgur.com/Mg8DSxE.png (facebook)
+[1.2]: https://raw.githubusercontent.com/238947/238947/master/twitter.png (twitter)
+[3.2]: https://raw.githubusercontent.com/238947/238947/master/facebook.png (facebook)
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/238_947
+[1]: https://twitter.com/9PhuCharm
 [2]: https://github.com/238947
 [3]: https://www.facebook.com/profile.php?id=100053135644728
